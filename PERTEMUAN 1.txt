@@ -1,0 +1,73 @@
+=> KPK Kelipatan persekutuan Terkecil 
+
+kelipatan 3 = 3,6,9,12,15,18,21,24,27,30.....
+kelipatan 4 = 4,8,12,16,20,24,28,32.....
+
+kpk dari 3 dan 4 adalah 12
+
+1. baca 2 data bilangan 1 dan bilangan 2
+2. bilangan 3 dan 4 akan di tambahkan dengan bilangan itu sendiri yang akan menjadikan bilangan itu sendiri
+3. jika bilangan 1 lebih kecil dari bilangan 2 maka kembali ke no 1
+4. hasil dari bil 1 dan bil2 yang sama maka akan di hitung kelipatan terkecil.
+
+
+=>                    LOGIKA ALGORITMA
+
+Define Swap(x,y)
+buffer = x
+x = y
+y = buffer 
+
+
+=> luas segitiga
+
+alas (a) = 25
+tinggi (t) = 30
+luas (L) = 0
+
+L = (a*t)/2
+
+
+=> jajargenjang
+1. masukan alas dan tinggi a = 5 t = 3
+2. Luas jajargenjang alas x tinggi ( 5 x 3 )
+3. luas nya 15
+
+pseudocode
+
+input
+alas (a) = 5
+tinggi (t) = 3
+Luas (L) = 0
+L = a*t
+Print Luas (15)
+
+
+=> Volume tabung
+1. masukan nilai r = 3
+2. masukan tinggi t = 5
+3. nilai pi = 3,14
+4. menghitung volume = 3,14 x 3 x 3 x 5
+5. tampilkan volume
+
+int r,t
+float pi = 3,14
+r = 3
+t = 5
+volume = 3,14 x 3 x 3 x 5
+print ( hasil volume )
+
+
+
+=> Volume kerucut
+1. masukan 
+pi = 3,14
+diameter = 5
+tinggi = 4
+r = diameter/2
+
+hasil = (pi x r x r x tinggi)/3
+print (hasil) 
+
+ 
+
